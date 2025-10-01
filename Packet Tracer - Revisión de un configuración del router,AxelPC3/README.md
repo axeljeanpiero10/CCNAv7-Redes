@@ -62,14 +62,6 @@ show ip interface brief: estado de interfaces IPv4
 
 show ipv6 interface brief: estado de interfaces IPv6
 
-📂 Estructura del Proyecto
-Código
-PacketTracer-RouterReview/
-├── README.md
-├── router-config.txt
-├── direccionamiento.csv
-└── 14.3.5_RouterReview.pka
-
 ✅ Resultados Esperados
 Todas las interfaces activas y correctamente configuradas.
 
