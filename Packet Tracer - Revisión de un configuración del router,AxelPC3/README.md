@@ -77,4 +77,5 @@ No se configura ruta por defecto en R2, por lo que solo se accede a redes locale
 El comando service password-encryption cifra las contraseñas en texto plano.
 
 📚 Créditos
-Basado en la actividad oficial del curso CCNA v7 de Cisco Networking Academy. Guía de referencia: ExamenRedes - Revisión básica del router
+Basado en la actividad oficial del curso CCNA v7 de Cisco Networking Academy.
+Guía de referencia: ExamenRedes - Revisión básica del router
