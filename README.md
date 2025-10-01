@@ -17,6 +17,7 @@ Diagnosticar y resolver problemas de red.
 Documentar cada actividad con README explicativos y archivos de apoyo.
 
 📌 Actividades Incluidas
+
 🔧 14.3.5 - Revisión de Configuración del Router
 Configuración de interfaces IPv4/IPv6.
 
@@ -25,6 +26,7 @@ Acceso remoto por SSH.
 Comandos de verificación (show version, show ip route, etc.).
 
 🔄 4.4.8 - Resolución de Problemas de Inter-VLAN Routing
+
 Diagnóstico de errores en subinterfaces, trunking y gateways.
 
 Corrección de configuración en router y switch.
@@ -32,6 +34,7 @@ Corrección de configuración en router y switch.
 Verificación de conectividad entre VLANs.
 
 🛠️ Herramientas Utilizadas
+
 Cisco Packet Tracer (v7.3+)
 
 CLI de routers y switches Cisco
@@ -39,4 +42,5 @@ CLI de routers y switches Cisco
 Documentación oficial de Cisco Networking Academy
 
 👨‍💻 Autor
+
 Axel Jean Piero Bazán Ramos Estudiante de Ingeniería de Sistemas | Universidad Tecnológica del Perú Apasionado por el desarrollo web, automatización y redes. 📍 Arequipa, Perú
