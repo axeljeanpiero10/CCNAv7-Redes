@@ -1,4 +1,5 @@
 🛠️ Packet Tracer - Resolución de Problemas de Inter-VLAN Routing
+
 📘 Descripción
 Este proyecto simula una red con múltiples VLANs y un router configurado para enrutamiento entre VLANs. El objetivo es identificar y corregir errores de configuración que impiden la conectividad entre dispositivos de distintas VLANs. Es una práctica clave para afianzar conceptos de subinterfaces, trunking y direccionamiento IP.
 
