@@ -1,4 +1,5 @@
 📘 Packet Tracer - Revisión de una Configuración del Router
+
 🧩 Descripción
 Este proyecto simula la configuración básica de un router Cisco (R2) en Packet Tracer. Incluye asignación de direcciones IP, configuración de parámetros de seguridad, habilitación de acceso remoto por SSH y verificación de conectividad. Es una práctica integral para reforzar comandos IOS y conceptos de redes IPv4/IPv6.
 
@@ -62,6 +63,7 @@ show ip interface brief: estado de interfaces IPv4
 show ipv6 interface brief: estado de interfaces IPv6
 
 📂 Estructura del Proyecto
+Código
 PacketTracer-RouterReview/
 ├── README.md
 ├── router-config.txt
