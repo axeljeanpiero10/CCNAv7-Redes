@@ -17,7 +17,6 @@ La red está compuesta por tres routers (R1, R2, R3), dos PCs (PC1, PC2) y un se
 
  🔐 Exclusión de direcciones
 
-```bash
 R2(config)# ip dhcp excluded-address 192.168.10.1 192.168.10.10
 R2(config)# ip dhcp excluded-address 192.168.30.1 192.168.30.10
 
